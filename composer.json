@@ -1,0 +1,10 @@
+{
+    "name": "tuanle/node-js",
+    "authors": [
+        {
+            "name": "Phan Van De",
+            "email": "phanvande2003@gmail.com"
+        }
+    ],
+    "require": {"mongodb/mongodb": "^1.11"}
+}
